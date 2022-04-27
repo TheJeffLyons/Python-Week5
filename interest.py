@@ -1,4 +1,4 @@
-#double interest rate calculator
+#double interest rate calculator using 72 rule
 
 rate = "\n Please enter the annualized interest rate or enter 'quit' to end the program: "
 
