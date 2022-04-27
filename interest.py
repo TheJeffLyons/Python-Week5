@@ -16,4 +16,4 @@ while True:
         years = 72 / int(message)
         message_two = input(investment)
         print(
-            f"It will take {years} years for your investment of {message_two} to double")
+            f"It will take {years} years for your investment of ${message_two} to double")
