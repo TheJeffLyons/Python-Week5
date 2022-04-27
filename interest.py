@@ -1,3 +1,5 @@
+#double interest rate calculator
+
 rate = "\n Please enter the annualized interest rate or enter 'quit' to end the program: "
 
 investment = "\n Please enter initial investment amount: "
